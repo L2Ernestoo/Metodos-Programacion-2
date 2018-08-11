@@ -1,5 +1,5 @@
 # Metodos-Programacion-2
-# 3RN3ST0 0R311AN@
+# Ernesto
 20 Funciones en total de Programacion 2, Archivo Original creado para algoritmo PSInt
 
 #Funciones.Java
